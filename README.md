@@ -1,2 +1,2 @@
 # kunal12
-exer
+exercise
